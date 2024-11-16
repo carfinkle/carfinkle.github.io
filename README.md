@@ -35,7 +35,7 @@ Provide a short summary of the types of projects featured on your page (e.g., da
 This gives an overview of what visitors can expect to see.
 
 ## 3. Highlighted Projects
-Feature 2–3 standout projects that showcase a range of your skills. Include a brief description for each project and direct links to their respective pages.
+[Exploring First-Year Courses and Outcomes at Whitman College](HW3.ipynb)
 
 ## 4. Skills and Technologies
 * rStudio
