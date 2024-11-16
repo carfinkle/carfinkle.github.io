@@ -25,6 +25,8 @@ acidity, chloride, and sulfate levels to maximize consumer satisfaction.
 ## Where's Schueller?
 This heatmap explores professor Schueller's most visited locations on Whitman College campus. 
 {% include_relative heatmap.html %}
+As expected, the heat map illustrates that Shueller spends a large portion of his time on campus in Olin Hall, specifically on the West side. This is the of the building that the Math department operates in. Additionally, Shueller appears to spend quite a bit of time at the BFFC. Other interesting results include Shueller's propensity to be in Sherwood Athletic Center. This could indicate an interest in athletic events such as Volleyball and Basketball. He also appears to spend decent time in Memorial hall, the Science Building, and Reid Campus Center. Shueller is not in Maxey or the Music Building as often. Finally, while not on Whitman Campus, it is included in the 500 meter radius, Shueller appears to enjoy meals at Big House Brew Pub.
+
 
 ## 2. Portfolio Overview
 Specializes in data analytics and visualizations. 
@@ -46,10 +48,10 @@ Add a note about your approach to the projects, such as using Jupyter Notebooks 
 Reference best practices from resources like the Python Data Science Handbook to show your methodical approach.
 
 ## 6. Contact Information
-Include an email address or a link to your LinkedIn profile to make it easy for interested parties to reach out.
+**email:** martinc@whitman.edu, carlym2021@gmail.com
+**linkedin**: 
 
-## 7. Resume Link
-Provide a link to download your resume or access an online version.
+## 7. Resume 
 
 ## 8. Fact-Based Insights
 Consider adding a brief reflection on insights gained from your projects. 
