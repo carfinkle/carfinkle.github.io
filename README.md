@@ -22,7 +22,9 @@ acidity, chloride, and sulfate levels to maximize consumer satisfaction.
   * **Description:** collection of per-game statistics for the Celtics and their opponents.
   * **Exploration:** examine which statistics are most effective at predicting the outcome of a game, which statistical differences in teams are most significant, and analyzing a team's 'identity' from statistical metrics. 
 
- 
+## Where's Schueller?
+This heatmap explores professor Schueller's most visited locations on Whitman College campus. 
+
 ## 2. Portfolio Overview
 Specializes in data analytics and visualizations. 
 
