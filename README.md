@@ -24,7 +24,7 @@ acidity, chloride, and sulfate levels to maximize consumer satisfaction.
 
 ## Where's Schueller?
 This heatmap explores professor Schueller's most visited locations on Whitman College campus. 
-{% include_relative figures/heatmap.html %}
+{% include_relative heatmap.html %}
 
 [View Interactive Graph](https://carfinkle.github.io/heatmap.html)
 
