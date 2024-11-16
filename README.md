@@ -1,5 +1,8 @@
 # Carly Martin
 
+![Alt text](DSC09913.jpg)
+
+
 ## Introduction
 Motivated student-athlete and upcoming graduate from Whitman College, specializing in Mathematics, Economics, and Quantitative Analysis. Proven ability to master complex concepts, demonstrated through tutoring peers and a finance internship at a Silicon Valley startup. Familiar with Microsoft Office (especially Excel), Google Workspace, python, rstudio, and Oracle NetSuite. Seeking to leverage analytical skills and financial acumen in a challenging role within a dynamic organization.
 
