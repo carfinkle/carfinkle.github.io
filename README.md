@@ -1,9 +1,13 @@
 # Carly Martin
-
+(Above and Beyond)
 <img src="DSC09913.jpg" alt="Description" width="150" height="200" />
 
 ## Introduction
 Motivated student-athlete and upcoming graduate from Whitman College, specializing in Mathematics, Economics, and Quantitative Analysis. Proven ability to master complex concepts, demonstrated through tutoring peers and a finance internship at a Silicon Valley startup. Familiar with Microsoft Office (especially Excel), Google Workspace, python, rstudio, and Oracle NetSuite. Seeking to leverage analytical skills and financial acumen in a challenging role within a dynamic organization.
+
+## Education
+Bachelor of Arts, Mathematics-Economics, expected May 2025, 3.916 
+  Whitman College, Walla Walla, WA
 
 ## Data Sources and Project Ideas
 1. Sports Statistics - WNBA MVP Race Advanced Metrics
@@ -37,7 +41,7 @@ Provide a short summary of the types of projects featured on your page (e.g., da
 This gives an overview of what visitors can expect to see.
 
 ## 3. Highlighted Projects
-[Exploring First-Year Courses and Outcomes at Whitman College](HW3.ipynb)
+
 
 ## 4. Skills and Technologies
 * rStudio
@@ -51,6 +55,7 @@ Reference best practices from resources like the Python Data Science Handbook to
 
 ## 6. Contact Information
 **email:** martinc@whitman.edu, carlym2021@gmail.com
+
 **linkedin**: 
 
 ## 7. Resume 
