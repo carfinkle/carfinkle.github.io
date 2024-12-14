@@ -1,5 +1,4 @@
 # Carly Martin
-(Above and Beyond)
 
 <img src="DSC09913.jpg" alt="Description" width="150" height="200" />
 
@@ -43,6 +42,10 @@ Provide a short summary of the types of projects featured on your page (e.g., da
 This gives an overview of what visitors can expect to see.
 
 ## 3. Highlighted Projects
+
+[WNBA Playing Time Distribution](https://carfinkle.github.io/WNBAPlayingTime)
+
+This analysis attempts to examine the relationship between regular-season playing time distributions and final rankings of WNBA teams. The goal is to determine if there is a specific method of determining playing time that is the most successful. Do successful teams only play their best players the majority of the game, or do they utilize their entire bench and evenly distribute the load? The aim is to determine and identify if any successful playing time patterns exist while providing the proper visualizations.
 
 
 ## 4. Skills and Technologies
