@@ -21,6 +21,8 @@ This gives an overview of what visitors can expect to see.
 
 This analysis attempts to examine the relationship between regular-season playing time distributions and final rankings of WNBA teams. The goal is to determine if there is a specific method of determining playing time that is the most successful. Do successful teams only play their best players the majority of the game, or do they utilize their entire bench and evenly distribute the load? The aim is to determine and identify if any successful playing time patterns exist while providing the proper visualizations.
 
+[Senior Project](https://carfinkle.github.io/WNBAvsNBA)
+
 
 ## 4. Skills and Technologies
 * rStudio
